@@ -1,3 +1,2 @@
 # جمثون
-
-<ع محاذاة = "اليسار"> <و أ href = " https://heroku.com/deploy؟template=https:ithub.com/Elkad568899/roz "> < IMG  SRC = "HTTPS: // IMG .shields .io / شارة / نشر ٪ 20 إلى ٪ 20 Heroku-purple؟ style = شارة وشعار = heroku " width = " 320 " height = " 58.45 " /> </ a> </ p>
+ع محاذاة = "اليسار"> <و أ href = " https://heroku.com/deploy؟template=https:ithub.com/elkady "> <IMG SRC = "HTTPS: // IMG .shields .io / شارة / نشر ٪ 20 إلى ٪ 20 Heroku-purple؟ style = شارة وشعار = heroku "width =" 320 "height =" 58.45 "/> </ a> </ p>
